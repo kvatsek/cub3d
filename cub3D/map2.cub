@@ -1,0 +1,28 @@
+R 700 700
+NO ./pics/redbrick.xpm
+
+
+SO ./pics/mossy.xpm
+
+
+WE ./pics/purplestone.xpm
+
+
+EA ./pics/bluestone.xpm
+
+
+S ./pics/pillar.xpm
+F 220,100,0
+
+
+C 250,30,0
+
+11111111111
+10021202001
+10000000001
+11000020201
+10E00001001
+11111100001
+     100201
+     100001
+     111111
